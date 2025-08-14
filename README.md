@@ -9,8 +9,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
+  
+  
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="graphql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="go logo"  />
